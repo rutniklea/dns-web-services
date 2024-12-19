@@ -28,3 +28,21 @@ For Debian/Ubuntu-based systems:
 ```bash
 sudo apt update
 sudo apt install curl dnsutils
+
+---
+
+## Notes
+- This script is designed for **testing and educational purposes**.
+- You can modify the script to suit your needs, but ensure that it is used responsibly.
+
+---
+
+
+## License
+This project is licensed under the **MIT License**. See the LICENSE file for more details.
+
+---
+
+## Author
+**Lea Rutnik**  
+[LinkedIn](https://www.linkedin.com/in/lea-rutnik/) | [GitHub](https://github.com/rutniklea)
