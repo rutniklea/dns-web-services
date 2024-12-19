@@ -1,4 +1,4 @@
-# DNS and Web Services Management Script
+## DNS and Web Services Management Script
 
 This advanced Bash script simplifies DNS and web server management, including domain resolution, web server configuration, and monitoring. It is designed to streamline administrative tasks and ensure efficient server performance.
 
@@ -25,24 +25,30 @@ Ensure the following tools are installed on your system before running the scrip
 
 For Debian/Ubuntu-based systems:
 
-```bash
 sudo apt update
 sudo apt install curl dnsutils
 
+## Author
+
+**Lea Rutnik**  
+Linux enthusiast, developer, and automation expert. Passionate about simplifying workflows and enhancing system efficiency.  
+
+- **GitHub**: [rutniklea](https://github.com/rutniklea)  
+- **LinkedIn**: [Lea Rutnik](https://www.linkedin.com/in/lea-rutnik/)  
+- **YouTube**: [Lea Rutnik Channel](https://www.youtube.com/)
+
 ---
-
-## Notes
-- This script is designed for **testing and educational purposes**.
-- You can modify the script to suit your needs, but ensure that it is used responsibly.
-
----
-
 
 ## License
-This project is licensed under the **MIT License**. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
 
-## Author
-**Lea Rutnik**  
-[LinkedIn](https://www.linkedin.com/in/lea-rutnik/) | [GitHub](https://github.com/rutniklea)
+## Contributions
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/rutniklea/automatic-administrative-tasks/issues).
+
+---
+
+## Feedback
+If you have any feedback, feel free to reach out via GitHub or LinkedIn. Thank you for using this project!
+
