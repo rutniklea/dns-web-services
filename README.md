@@ -28,8 +28,3 @@ For Debian/Ubuntu-based systems:
 ```bash
 sudo apt update
 sudo apt install curl dnsutils
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 5eaf7a0b80592f8672892616348846d6471ee146
